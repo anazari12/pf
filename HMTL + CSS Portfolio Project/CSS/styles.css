@@ -1,0 +1,168 @@
+
+#header {
+	object-fit: contain;
+	margin-top: 40px;
+	position: relative;
+	height: 1000px;
+	background-color: #939393;
+}
+
+.hero {
+		position: absolute;
+}
+
+.jumbotron {
+		margin-top: -30px;
+		padding: 0px;
+		position: inherit;
+		top: -60px;
+		margin-bottom: 0px;
+		opacity: 95%;
+}
+
+.Undergrad-image {
+	Height: 30px;
+	Width: 30px;
+	margin-right: 10px;
+}
+
+.body {
+	background-color: #E5E9EC;
+}
+
+.UNT {
+	margin: 0 5 10 15;
+	margin-left: 100px;
+	float: left;
+}
+
+.Projects {
+	background-color: white;
+	margin-top: 0px;
+	Padding-top: 30px;
+	padding-bottom: 40px;
+}
+
+.media-object-default {
+	margin-left: 40px;
+	margin-right: 50px;
+}
+
+.Work {
+	padding-top: 20px;
+	margin-top: 10px;
+	padding-bottom: 20px;
+}
+
+.company {
+	font-weight: 600;
+}
+
+.company {
+	font-weight: 600;
+}
+
+.specialization {
+	font-weight: 400;
+}
+
+.Certifications {
+	background-color: #E5E5E5;
+	padding-top: 30px;
+	margin-top: 30px;
+	padding-bottom: 40px;
+}
+
+.two {
+	margin-left: 40px;
+	margin-right: 50px;
+}
+
+.descriptions {
+	margin-left: 40px;
+}
+
+.outco {
+	line-height: inherit;
+}
+
+.header {
+	padding-bottom: 0px;
+}
+
+.Collin {
+	float: right;
+	margin-right: 150px;
+}
+
+.education {
+	padding-bottom: 50px;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	padding-bottom: 450px;
+	padding-top: 20px;
+	background-color: #E5E5E5;
+}
+
+.projects {
+	padding-top: 500px;
+}
+
+.title {
+	font-size: 2.4rem;
+	font-family: sans-serif;
+	padding: 0px 10px 10px 30px;
+	font-weight: 300;
+	margin-bottom: 20px;
+}
+
+.p {
+	font-family: sans-serif;
+}
+
+.h1 {
+	font-family: sans-serif;
+}
+
+.h2 {
+	font-family: sans-serif;
+}
+
+.h3 {
+	font-family: sans-serif;
+}
+
+.h4 {
+	font-family: sans-serif;
+}
+
+.h5 {
+	font-family: sans-serif;
+}
+
+.footer {
+	padding-left: 30px;
+	background-color: #454545;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.outtro {
+	font-family: sans-serif;
+	font-size: 2rem;
+	font-weight: 300;
+	color: white;
+		margin-left: 0px;
+}
+
+.message {
+	font-family: sans-serif;
+	font-size: 1.2rem;
+	font-weight: 300;
+	margin-left: 0px;
+	color: white;
+}
+
+.leave {
+	background-color: #454545;
+}
